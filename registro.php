@@ -83,14 +83,13 @@
                     
                         }
                     }?>
-
     </div>
     <div class="register1-container">
       <h3 class="center-text">¿Ya tienes una cuenta?</h3>
       <p class="center-text">
         Si ya tienes cuenta ingresa aqui
       </p><br>
-      <a href="index.php"><button type="button">Iniciar Sesión</button></a>
+      </div>
     </div>
   </div>
   <script src="script.js"></script>
